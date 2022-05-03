@@ -25,31 +25,31 @@ Lab Overview <br/>
 <img src="https://imgur.com/DkaG4pN.png" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Create Virtual Machine: Open Firewall to public internep traffic <br/>
+Install Server 2019 OS: Install VirtualBox Guest Additions <br/>
 <img src="https://imgur.com/DkaG4pN.png" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Create Log Analytics Workspace: Connect Log Analytics to VM  <br/>
+Setup Server Network Adapters and Rename Server: Assign IP Adress to Internal Adapter  <br/>
 <img src="https://imgur.com/KWZN4Xd.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Set up Microsoft Azure Sentinel: Log into VM remotely <br/>
+Install Active Directory Domain Services: Promote Domain Controller (projectdomain.com) <br/>
 <img src="https://imgur.com/2IDgZxq.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Observe Event Viewer Logs in VM: Turn off Windows Firewall on VM  <br/>
+Create Domain Admin Account: Re-login with Domain Admin Account  <br/>
 <img src="https://imgur.com/6HA10WR.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Get Geolocation.io API Key: Run Powershell script to get Geo Data from attackers  <br/>
+Install and configure RAS/NAT and DCHP: Enable browsing on the Domain Controller  <br/>
 <img src="https://imgur.com/nFNNGVH.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Create custom log in LAW: Extract filds from raw custom log data  <br/>
+Run Powershell ISE script as Admin: Change Directory to Script Directory to create users <br/>
 <img src="https://imgur.com/3nu9aY8.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
-Setup map in Sentinel by Country: Observe attackers on world map <br/>
+Install Windows 10 OS as Client VM: Join to domain and rename, then login with Domain Credentials <br/>
 <img src="https://imgur.com/9i067XT.png" height="80%" width="80%" alt="AD Setup Steps"/>
 </p>
 
