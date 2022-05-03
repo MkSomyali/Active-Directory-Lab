@@ -8,15 +8,15 @@ A powerShell automated provision, maintaining and deprovisioning user accounts. 
 
 <h2>Languages Used</h2>
 
-- <b>PowerShell</b> Adding 900+ Users
+- <b>PowerShell:</b> Adding 900+ Users
 
 <h2>Environments Used </h2>
 
-- <b>Oracle VirtualBox</b> Virtual Machine
+- <b>Oracle VirtualBox:</b> Virtual Machine
 
-- <b>Windows 10 pr ISOo</b> (21H2) Client Virtual Machine
+- <b>Windows 10 pr ISO:o</b> (21H2) Client Virtual Machine
 
-- <b> Server 2019 ISO</b> Domain Controller housing Active Directory
+- <b> Server 2019 ISO:</b> Domain Controller housing Active Directory
 
 <h2>Lab walk-through:</h2>
 
