@@ -46,11 +46,11 @@ Install and configure RAS/NAT and DCHP: Enable browsing on the Domain Controller
 <br />
 <br />
 Run Powershell ISE script as Admin: Change Directory to Script Directory to create users <br/>
-<img src="https://imgur.com/VvorMeW.png" height="80%" width="80%" alt="AD Setup Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="AD Setup Steps"/>
 <br />
 <br />
 Install Windows 10 OS as Client VM: Join to domain and rename, then login with Domain Credentials <br/>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="AD Setup Steps"/>
+<img src="https://imgur.com/gRdDrM6.png" height="80%" width="80%" alt="AD Setup Steps"/>
 </p>
 
 <!--
