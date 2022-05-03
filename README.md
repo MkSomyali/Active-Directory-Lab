@@ -21,6 +21,10 @@ A powerShell automated provision, maintaining and deprovisioning user accounts. 
 <h2>Lab walk-through:</h2>
 
 <p align="center">
+Lab Overview <br/>
+<img src="https://imgur.com/DkaG4pN.png" width="80%" alt="AD Setup Steps"/>
+<br />
+<br />
 Create Virtual Machine: Open Firewall to public internep traffic <br/>
 <img src="https://imgur.com/DkaG4pN.png" width="80%" alt="AD Setup Steps"/>
 <br />
