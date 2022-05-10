@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-A powerShell automated provision, maintaining and deprovisioning user accounts. And a Remote Access Serve (RAS) set up to support NAT/PAT. With an implementation and maintenance of Windows DNS and DHCP services. Then configuring Windows File Servers with implementation of quotas and NTFS permissions.
+A PowerShell automated provision, maintaining and deprovisioning user accounts. And a Remote Access Serve (RAS) set up to support NAT/PAT. With an implementation and maintenance of Windows DNS and DHCP services. Then configuring Windows File Servers with implementation of quotas and NTFS permissions.
 <br />
 
 
